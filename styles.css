@@ -1,0 +1,54 @@
+body{
+    margin: 0%;
+    background-color: #0d0d0d;
+    color: rgb(220, 221, 235);
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    display: flexbox;
+
+}
+header {
+    border-radius: 9999px;   
+    color: rgb(160, 196, 255);
+    text-align: center;
+    font-size: 42px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+nav {
+    border-radius: 9999px;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+}
+
+nav ul{
+    list-style: none;
+    color: rgb(100, 140, 255);
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0;
+    padding: 8px;
+    display: ruby-base-container;
+    color: royalblue;
+}
+
+nav a{
+    display: inline-flex;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(100, 149, 237);
+}
+
+nav a:hover{
+    color: rgb(180, 220, 255);
+}
+
+
+
